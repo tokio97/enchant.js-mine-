@@ -3,6 +3,6 @@ tutorial by Guts Rodsavas (http://www.raywenderlich.com/23370/how-to-make-a-simp
 
 changes from original:
 
-new art and music/sound
-scrolling background
+new art and music/sound,
+scrolling background,
 added twitter for score
